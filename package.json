@@ -1,6 +1,6 @@
 {
   "name": "apester-logger",
-  "version": "1.0.6",
+  "version": "1.0.6a",
   "description": "apester-application-logger",
   "main": "index.js",
   "scripts": {
