@@ -1,0 +1,25 @@
+{
+  "name": "apester-logger",
+  "version": "1.0.0",
+  "description": "apester-application-logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/orsahar/apester-logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "Or Sahar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orsahar/apester-logger/issues"
+  },
+  "homepage": "https://github.com/orsahar/apester-logger#readme",
+  "dependencies": {
+    "winston": "^2.2.0"
+  }
+}
